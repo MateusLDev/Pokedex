@@ -23,7 +23,7 @@ Framework Utilizados
   <li>Rode o projeto em sua máquina com o comando <code>npm run serve</code></li>
 </ol>
 
-<h2>Autor</h2>
+<h2>✍️Autor</h2>
 
 <ul>
   <li>Instagram: </li>
