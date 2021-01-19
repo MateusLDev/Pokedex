@@ -8,12 +8,8 @@ Para que este projeto pudesse ser elaborado, contei com a "ajuda" de uma API gra
 
 <h2>RECURSOS UTILIZADOS</h2>
 
-Framework CSS
+Framework Utilizados
 <ul>
   <li>Bulma</li>
-</ul>
-
-Framework JavaScript
-<ul>
   <li>Vue.js</li>
 </ul>
