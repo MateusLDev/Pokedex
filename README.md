@@ -1,4 +1,4 @@
-# Pokedex
+# 🎮 Pokedex
 
 Projeto de estudo baseado na série Pokemon, onde fiz uma releitura da pokedex, um aparelho onde os pokemons capturados são armazenados, juntamente com suas informações.
 
@@ -6,7 +6,7 @@ Projeto de estudo baseado na série Pokemon, onde fiz uma releitura da pokedex, 
 
 Para que este projeto pudesse ser elaborado, contei com a "ajuda" de uma API gratuita chamada <a href="https://pokeapi.co">PokeApi</a>.
 
-<h2>Recursos Utilizados</h2>
+<h2>♟ Recursos Utilizados</h2>
 <ul>
   <li>Bulma</li>
   <li>Vue.js</li>
