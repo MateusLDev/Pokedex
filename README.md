@@ -2,20 +2,18 @@
 
 Projeto de estudo baseado na série Pokemon, onde fiz uma releitura da pokedex, um aparelho onde os pokemons capturados são armazenados, juntamente com suas informações.
 
-<h2>API</h2>
+<h2>🔨 API</h2>
 
 Para que este projeto pudesse ser elaborado, contei com a "ajuda" de uma API gratuita chamada <a href="https://pokeapi.co">PokeApi</a>.
 
-<h2>RECURSOS UTILIZADOS</h2>
-
-Framework Utilizados
+<h2>Recursos Utilizados</h2>
 <ul>
   <li>Bulma</li>
   <li>Vue.js</li>
   <li>Axios</li>
 </ul>
 
-<h2>Desenvolvimento</h2>
+<h2>💻 Desenvolvimento</h2>
 
 <ol>
   <li> Clone este repositório</li>
@@ -23,7 +21,7 @@ Framework Utilizados
   <li>Rode o projeto em sua máquina com o comando <code>npm run serve</code></li>
 </ol>
 
-<h2>✍️Autor</h2>
+<h2>✍️ Autor</h2>
 
 <ul>
   <li>Instagram: </li>
