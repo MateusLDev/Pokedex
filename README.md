@@ -15,7 +15,7 @@ Framework Utilizados
   <li>Axios</li>
 </ul>
 
-<h2>Desenvovimento</h2>
+<h2>Desenvolvimento</h2>
 
 <ol>
   <li> Clone este repositório</li>
