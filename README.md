@@ -12,4 +12,5 @@ Framework Utilizados
 <ul>
   <li>Bulma</li>
   <li>Vue.js</li>
+  <li>Axios</li>
 </ul>
