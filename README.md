@@ -14,3 +14,19 @@ Framework Utilizados
   <li>Vue.js</li>
   <li>Axios</li>
 </ul>
+
+<h2>Desenvovimento</h2>
+
+<ol>
+  <li> Clone o repositório</li>
+  <li>Instale as dependências utilizando <code>yarn install</code> ou <code>npm install</code></li>
+  <li>Rode o projeto em sua máquina com o comando <code>npm run serve</code<</li>
+</ol>
+
+<h2>Autor</h2>
+
+<ul>
+  <li>Instagram: </li>
+  <li>Instagram: </li>
+  <li>Instagram: </li>
+</ul>
