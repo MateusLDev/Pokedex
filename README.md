@@ -1,6 +1,6 @@
 # 🎮 Pokedex
 
-Projeto de estudo baseado na série Pokemon, onde fiz uma releitura da pokedex, um aparelho onde os pokemons capturados são armazenados, juntamente com suas informações.
+Projeto de estudo realizado em um curso gratuito, baseado na série Pokemon, onde foi feita uma releitura da pokedex, um aparelho onde os pokemons capturados são armazenados, juntamente com suas informações.
 
 # Por que?
 
@@ -28,6 +28,7 @@ Para que este projeto pudesse ser elaborado, contei com a "ajuda" de uma API gra
 <h2>✍️ Autor</h2>
 
 <ul>
+  <li>Curso: https://www.youtube.com/watch?v=GywWvw6S3qk&t=122s</li>
   <li>LinkedIn: https://www.linkedin.com/in/mateus-lopes019/</li>
   <li>Instagram: </li>
   <li>Instagram: </li>
