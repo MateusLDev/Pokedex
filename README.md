@@ -28,7 +28,7 @@ Para que este projeto pudesse ser elaborado, contei com a "ajuda" de uma API gra
 <h2>✍️ Autor</h2>
 
 <ul>
-  <li>Instagram: </li>
+  <li>LinkedIn: https://www.linkedin.com/in/mateus-lopes019/</li>
   <li>Instagram: </li>
   <li>Instagram: </li>
 </ul>
