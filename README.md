@@ -2,7 +2,7 @@
 
 Projeto de estudo realizado em um curso gratuito, baseado na série Pokemon, onde foi feita uma releitura da pokedex, um aparelho onde os pokemons capturados são armazenados, juntamente com suas informações.
 
-# Por que?
+<h2>Por que?</h2>
 
 A elaboração deste projeto foi pensada com o intuito de enriquecer e incrementar meu portfólio pessoal. Não só isso, mas também como uma forma de elevar meus conhecimentos na framework.
 
