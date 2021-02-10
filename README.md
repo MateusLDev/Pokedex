@@ -12,8 +12,8 @@ Para que este projeto pudesse ser elaborado, contei com a "ajuda" de uma API gra
 
 <h2>♟ Recursos Utilizados</h2>
 <ul>
-  <li>Bulma</li>
   <li>Vue.js</li>
+  <li>Bulma</li>
   <li>Axios</li>
 </ul>
 
@@ -30,6 +30,6 @@ Para que este projeto pudesse ser elaborado, contei com a "ajuda" de uma API gra
 <ul>
   <li>Curso: https://www.youtube.com/watch?v=GywWvw6S3qk&t=122s</li>
   <li>LinkedIn: https://www.linkedin.com/in/mateus-lopes019/</li>
-  <li>Instagram: </li>
+  <li>Instagram: https://www.instagram.com/mtszc</li>
   <li>Instagram: </li>
 </ul>
